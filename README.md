@@ -19,8 +19,8 @@ El pipeline de ingesta y limpieza ha sido completado y ejecutado exitosamente. L
 
 | Capa   |              Ubicación | Estado              |
 | ------ | ---------------------: | ------------------- |
-| BRONZE | `/data/bronze/ventas/` | Crudo, Unificado    |
-| SILVER | `/data/silver/ventas/` | Limpio, Normalizado |
+| BRONZE | `/bronze/ventas/` | Crudo, Unificado    |
+| SILVER | `/silver/ventas/` | Limpio, Normalizado |
 
 
 ---
